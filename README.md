@@ -26,19 +26,19 @@ Una app Android inspirada en la interfaz de Crunchyroll, que permite navegar por
 
 1. **Ingresa pantalla pprincipal**
    
-   ![main](crunchy_panallas/main.png)
+   ![main](crunchy_pantallas/main.png)
    
 2. **Visualización del menú lateral**
    
-   ![menubar](crunchy_panallas/menu.png)
+   ![menubar](crunchy_pantallas/menu.png)
    
 3. **WebView en Login**: Se usa WebView para acceder.
    
-   ![weblogin](crunchy_panallas/login.png)
+   ![weblogin](crunchy_pantallas/login.png)
    
 4. **WebView en Novedades**: Puedes ver la web de Crunchyroll
  
-   ![noved](crunchy_panallas/novedades.png)
+   ![noved](crunchy_pantallas/novedades.png)
    
 
 ## 🧪 Cómo probar la app
